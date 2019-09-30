@@ -1,3 +1,6 @@
 body{
 	background-color: blue;
+	color: maroon;
+	border: 2px red solid;
+	border-radius: 10px;
 }
